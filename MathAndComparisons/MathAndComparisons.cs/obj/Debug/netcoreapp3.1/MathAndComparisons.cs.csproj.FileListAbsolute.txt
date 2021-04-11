@@ -1,0 +1,13 @@
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\MathAndComparisons\MathAndComparisons.cs\bin\Debug\netcoreapp3.1\MathAndComparisons.cs.exe
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\MathAndComparisons\MathAndComparisons.cs\bin\Debug\netcoreapp3.1\MathAndComparisons.cs.deps.json
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\MathAndComparisons\MathAndComparisons.cs\bin\Debug\netcoreapp3.1\MathAndComparisons.cs.runtimeconfig.json
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\MathAndComparisons\MathAndComparisons.cs\bin\Debug\netcoreapp3.1\MathAndComparisons.cs.runtimeconfig.dev.json
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\MathAndComparisons\MathAndComparisons.cs\bin\Debug\netcoreapp3.1\MathAndComparisons.cs.dll
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\MathAndComparisons\MathAndComparisons.cs\bin\Debug\netcoreapp3.1\MathAndComparisons.cs.pdb
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\MathAndComparisons\MathAndComparisons.cs\obj\Debug\netcoreapp3.1\MathAndComparisons.cs.csprojAssemblyReference.cache
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\MathAndComparisons\MathAndComparisons.cs\obj\Debug\netcoreapp3.1\MathAndComparisons.cs.AssemblyInfoInputs.cache
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\MathAndComparisons\MathAndComparisons.cs\obj\Debug\netcoreapp3.1\MathAndComparisons.cs.AssemblyInfo.cs
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\MathAndComparisons\MathAndComparisons.cs\obj\Debug\netcoreapp3.1\MathAndComparisons.cs.csproj.CoreCompileInputs.cache
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\MathAndComparisons\MathAndComparisons.cs\obj\Debug\netcoreapp3.1\MathAndComparisons.cs.dll
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\MathAndComparisons\MathAndComparisons.cs\obj\Debug\netcoreapp3.1\MathAndComparisons.cs.pdb
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\MathAndComparisons\MathAndComparisons.cs\obj\Debug\netcoreapp3.1\MathAndComparisons.cs.genruntimeconfig.cache
