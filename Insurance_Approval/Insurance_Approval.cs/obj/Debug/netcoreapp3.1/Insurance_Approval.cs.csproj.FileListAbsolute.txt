@@ -1,0 +1,13 @@
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\Insurance_Approval\Insurance_Approval.cs\bin\Debug\netcoreapp3.1\Insurance_Approval.cs.exe
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\Insurance_Approval\Insurance_Approval.cs\bin\Debug\netcoreapp3.1\Insurance_Approval.cs.deps.json
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\Insurance_Approval\Insurance_Approval.cs\bin\Debug\netcoreapp3.1\Insurance_Approval.cs.runtimeconfig.json
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\Insurance_Approval\Insurance_Approval.cs\bin\Debug\netcoreapp3.1\Insurance_Approval.cs.runtimeconfig.dev.json
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\Insurance_Approval\Insurance_Approval.cs\bin\Debug\netcoreapp3.1\Insurance_Approval.cs.dll
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\Insurance_Approval\Insurance_Approval.cs\bin\Debug\netcoreapp3.1\Insurance_Approval.cs.pdb
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\Insurance_Approval\Insurance_Approval.cs\obj\Debug\netcoreapp3.1\Insurance_Approval.cs.csprojAssemblyReference.cache
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\Insurance_Approval\Insurance_Approval.cs\obj\Debug\netcoreapp3.1\Insurance_Approval.cs.AssemblyInfoInputs.cache
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\Insurance_Approval\Insurance_Approval.cs\obj\Debug\netcoreapp3.1\Insurance_Approval.cs.AssemblyInfo.cs
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\Insurance_Approval\Insurance_Approval.cs\obj\Debug\netcoreapp3.1\Insurance_Approval.cs.csproj.CoreCompileInputs.cache
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\Insurance_Approval\Insurance_Approval.cs\obj\Debug\netcoreapp3.1\Insurance_Approval.cs.dll
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\Insurance_Approval\Insurance_Approval.cs\obj\Debug\netcoreapp3.1\Insurance_Approval.cs.pdb
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\Insurance_Approval\Insurance_Approval.cs\obj\Debug\netcoreapp3.1\Insurance_Approval.cs.genruntimeconfig.cache
