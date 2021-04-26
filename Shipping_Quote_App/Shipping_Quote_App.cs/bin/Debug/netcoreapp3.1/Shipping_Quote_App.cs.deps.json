@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Shipping_Quote_App.cs/1.0.0": {
+        "runtime": {
+          "Shipping_Quote_App.cs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Shipping_Quote_App.cs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
