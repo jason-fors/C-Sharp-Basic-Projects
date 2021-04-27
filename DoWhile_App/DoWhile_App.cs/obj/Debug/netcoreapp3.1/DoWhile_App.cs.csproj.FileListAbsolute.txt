@@ -1,0 +1,12 @@
+C:\Users\Jason Fors\source\repos\DoWhile_App\DoWhile_App.cs\bin\Debug\netcoreapp3.1\DoWhile_App.cs.exe
+C:\Users\Jason Fors\source\repos\DoWhile_App\DoWhile_App.cs\bin\Debug\netcoreapp3.1\DoWhile_App.cs.deps.json
+C:\Users\Jason Fors\source\repos\DoWhile_App\DoWhile_App.cs\bin\Debug\netcoreapp3.1\DoWhile_App.cs.runtimeconfig.json
+C:\Users\Jason Fors\source\repos\DoWhile_App\DoWhile_App.cs\bin\Debug\netcoreapp3.1\DoWhile_App.cs.runtimeconfig.dev.json
+C:\Users\Jason Fors\source\repos\DoWhile_App\DoWhile_App.cs\bin\Debug\netcoreapp3.1\DoWhile_App.cs.dll
+C:\Users\Jason Fors\source\repos\DoWhile_App\DoWhile_App.cs\bin\Debug\netcoreapp3.1\DoWhile_App.cs.pdb
+C:\Users\Jason Fors\source\repos\DoWhile_App\DoWhile_App.cs\obj\Debug\netcoreapp3.1\DoWhile_App.cs.AssemblyInfoInputs.cache
+C:\Users\Jason Fors\source\repos\DoWhile_App\DoWhile_App.cs\obj\Debug\netcoreapp3.1\DoWhile_App.cs.AssemblyInfo.cs
+C:\Users\Jason Fors\source\repos\DoWhile_App\DoWhile_App.cs\obj\Debug\netcoreapp3.1\DoWhile_App.cs.csproj.CoreCompileInputs.cache
+C:\Users\Jason Fors\source\repos\DoWhile_App\DoWhile_App.cs\obj\Debug\netcoreapp3.1\DoWhile_App.cs.dll
+C:\Users\Jason Fors\source\repos\DoWhile_App\DoWhile_App.cs\obj\Debug\netcoreapp3.1\DoWhile_App.cs.pdb
+C:\Users\Jason Fors\source\repos\DoWhile_App\DoWhile_App.cs\obj\Debug\netcoreapp3.1\DoWhile_App.cs.genruntimeconfig.cache
