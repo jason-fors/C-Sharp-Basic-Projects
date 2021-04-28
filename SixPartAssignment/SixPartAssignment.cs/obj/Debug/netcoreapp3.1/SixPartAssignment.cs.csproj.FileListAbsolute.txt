@@ -1,0 +1,13 @@
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\SixPartAssignment\SixPartAssignment.cs\bin\Debug\netcoreapp3.1\SixPartAssignment.cs.exe
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\SixPartAssignment\SixPartAssignment.cs\bin\Debug\netcoreapp3.1\SixPartAssignment.cs.deps.json
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\SixPartAssignment\SixPartAssignment.cs\bin\Debug\netcoreapp3.1\SixPartAssignment.cs.runtimeconfig.json
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\SixPartAssignment\SixPartAssignment.cs\bin\Debug\netcoreapp3.1\SixPartAssignment.cs.runtimeconfig.dev.json
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\SixPartAssignment\SixPartAssignment.cs\bin\Debug\netcoreapp3.1\SixPartAssignment.cs.dll
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\SixPartAssignment\SixPartAssignment.cs\bin\Debug\netcoreapp3.1\SixPartAssignment.cs.pdb
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\SixPartAssignment\SixPartAssignment.cs\obj\Debug\netcoreapp3.1\SixPartAssignment.cs.AssemblyInfoInputs.cache
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\SixPartAssignment\SixPartAssignment.cs\obj\Debug\netcoreapp3.1\SixPartAssignment.cs.AssemblyInfo.cs
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\SixPartAssignment\SixPartAssignment.cs\obj\Debug\netcoreapp3.1\SixPartAssignment.cs.csproj.CoreCompileInputs.cache
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\SixPartAssignment\SixPartAssignment.cs\obj\Debug\netcoreapp3.1\SixPartAssignment.cs.dll
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\SixPartAssignment\SixPartAssignment.cs\obj\Debug\netcoreapp3.1\SixPartAssignment.cs.pdb
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\SixPartAssignment\SixPartAssignment.cs\obj\Debug\netcoreapp3.1\SixPartAssignment.cs.genruntimeconfig.cache
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\SixPartAssignment\SixPartAssignment.cs\obj\Debug\netcoreapp3.1\SixPartAssignment.cs.csprojAssemblyReference.cache
