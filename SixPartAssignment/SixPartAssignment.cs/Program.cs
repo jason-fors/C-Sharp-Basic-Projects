@@ -100,6 +100,7 @@ namespace SixPartAssignment.cs
             trees.Add("Tulip Poplar");
             trees.Add("Hickory");
 
+            // Creating list to check against the original list to evaluate if an item repeats.
             List<string> checkTrees = new List<string>();
 
             // Iterates through list and evaluates whether or not it has already appeared in the list.
@@ -112,7 +113,7 @@ namespace SixPartAssignment.cs
                 else
                 {
                     Console.WriteLine(tree + " has not appeared in the list yet.");
-                    checkTrees.Add(tree);
+                    checkTrees.Add(tree);                                   //  Appends each unique item to the new list.
                 }
             }
 
