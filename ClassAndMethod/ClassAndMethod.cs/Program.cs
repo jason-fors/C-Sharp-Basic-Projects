@@ -6,24 +6,30 @@ namespace ClassAndMethod.cs
     {
         static void Main(string[] args)
         {
-            
+            // Instantiating MathOperations object so we can use its methods.
+            MathOperations mathOperations1 = new MathOperations();
+
             // Obtaining an number from the user to perform math operations on.
-            Console.WriteLine("Pick a number to perform some math operations on!");
-            int userNumber = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Pick an integer to square.");
+            int userNumber1 = Convert.ToInt32(Console.ReadLine());
+            int squared = mathOperations1.Operation(userNumber1);
+            Console.WriteLine("Your number squared is: " + squared);
 
             // Instantiating MathOperations object so we can use its methods.
-            MathOperations mathOperations = new MathOperations();
+            MathOperations mathOperations2 = new MathOperations();
 
-            // Calling each MathOperations method on the user number and assigning each result to a varible.
-            int squared = mathOperations.Square(userNumber);
-            int plusFour = mathOperations.PlusFour(userNumber);
-            int timesFive = mathOperations.TimesFive(userNumber);
+            Console.WriteLine("Pick a decimal to divide by four.");
+            decimal userNumber2 = Convert.ToDecimal(Console.ReadLine());
+            int dividedByFour = mathOperations2.Operation(userNumber2);
+            Console.WriteLine("Your number divided by four is: " + dividedByFour);
 
-            // Displaying results to user on console.
-            Console.WriteLine("Your number squared is: " + squared);
-            Console.WriteLine("Your number plus four is: " + plusFour);
+            // Instantiating MathOperations object so we can use its methods.
+            MathOperations mathOperations3 = new MathOperations();
+            
+            Console.WriteLine("Pick an number to multiply by five.");
+            string userNumber3 = Console.ReadLine();
+            int timesFive = mathOperations3.Operation(userNumber3);
             Console.WriteLine("Your number times five is: " + timesFive);
-
 
             Console.ReadLine();
         }

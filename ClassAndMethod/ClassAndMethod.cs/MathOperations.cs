@@ -9,21 +9,33 @@ namespace ClassAndMethod.cs
     {
 
         // Takes an integer argument and returns the square
-        public int Square(int userNum)  
+        public int Operation(int userNum)  
         {
             return userNum * userNum;
         }
 
-        // Takes an integer argument and returns its sum with 4
-        public int PlusFour(int userNum)
+        // Takes a decimal argument and returns the result of it being divided by 4. Using method overloading.
+        public int Operation(decimal userNum)
         {
-            return userNum + 4;
+            int result = Convert.ToInt32(userNum/4);
+            return result;
         }
 
-        // Takes an integer argument and returns its product with 5
-        public int TimesFive(int userNum)
+        // Takes an string argument and returns its product with 5. Using method overloading.
+        public int Operation(string userNum)
         {
-            return userNum * 5;
+            // Attempts to convert user string input to an integer and notifies user if it fails.
+            try
+            {
+                int factor = Convert.ToInt32(userNum);
+                return factor * 5;
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("I couldn't convert that into an integer.");
+                return 0;
+            }
+
         }
     }
 }
