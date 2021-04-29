@@ -1,0 +1,13 @@
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\ClassAndMethod2\ClassAndMethod2.cs\obj\Debug\netcoreapp3.1\ClassAndMethod2.cs.csprojAssemblyReference.cache
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\ClassAndMethod2\ClassAndMethod2.cs\obj\Debug\netcoreapp3.1\ClassAndMethod2.cs.AssemblyInfoInputs.cache
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\ClassAndMethod2\ClassAndMethod2.cs\obj\Debug\netcoreapp3.1\ClassAndMethod2.cs.AssemblyInfo.cs
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\ClassAndMethod2\ClassAndMethod2.cs\obj\Debug\netcoreapp3.1\ClassAndMethod2.cs.csproj.CoreCompileInputs.cache
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\ClassAndMethod2\ClassAndMethod2.cs\bin\Debug\netcoreapp3.1\ClassAndMethod2.cs.exe
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\ClassAndMethod2\ClassAndMethod2.cs\bin\Debug\netcoreapp3.1\ClassAndMethod2.cs.deps.json
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\ClassAndMethod2\ClassAndMethod2.cs\bin\Debug\netcoreapp3.1\ClassAndMethod2.cs.runtimeconfig.json
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\ClassAndMethod2\ClassAndMethod2.cs\bin\Debug\netcoreapp3.1\ClassAndMethod2.cs.runtimeconfig.dev.json
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\ClassAndMethod2\ClassAndMethod2.cs\bin\Debug\netcoreapp3.1\ClassAndMethod2.cs.dll
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\ClassAndMethod2\ClassAndMethod2.cs\bin\Debug\netcoreapp3.1\ClassAndMethod2.cs.pdb
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\ClassAndMethod2\ClassAndMethod2.cs\obj\Debug\netcoreapp3.1\ClassAndMethod2.cs.dll
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\ClassAndMethod2\ClassAndMethod2.cs\obj\Debug\netcoreapp3.1\ClassAndMethod2.cs.pdb
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\ClassAndMethod2\ClassAndMethod2.cs\obj\Debug\netcoreapp3.1\ClassAndMethod2.cs.genruntimeconfig.cache
