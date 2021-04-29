@@ -1,0 +1,13 @@
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\VoidMethod2\VoidMethod2\bin\Debug\netcoreapp3.1\VoidMethod2.exe
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\VoidMethod2\VoidMethod2\bin\Debug\netcoreapp3.1\VoidMethod2.deps.json
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\VoidMethod2\VoidMethod2\bin\Debug\netcoreapp3.1\VoidMethod2.runtimeconfig.json
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\VoidMethod2\VoidMethod2\bin\Debug\netcoreapp3.1\VoidMethod2.runtimeconfig.dev.json
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\VoidMethod2\VoidMethod2\bin\Debug\netcoreapp3.1\VoidMethod2.dll
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\VoidMethod2\VoidMethod2\bin\Debug\netcoreapp3.1\VoidMethod2.pdb
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\VoidMethod2\VoidMethod2\obj\Debug\netcoreapp3.1\VoidMethod2.csprojAssemblyReference.cache
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\VoidMethod2\VoidMethod2\obj\Debug\netcoreapp3.1\VoidMethod2.AssemblyInfoInputs.cache
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\VoidMethod2\VoidMethod2\obj\Debug\netcoreapp3.1\VoidMethod2.AssemblyInfo.cs
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\VoidMethod2\VoidMethod2\obj\Debug\netcoreapp3.1\VoidMethod2.csproj.CoreCompileInputs.cache
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\VoidMethod2\VoidMethod2\obj\Debug\netcoreapp3.1\VoidMethod2.dll
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\VoidMethod2\VoidMethod2\obj\Debug\netcoreapp3.1\VoidMethod2.pdb
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\VoidMethod2\VoidMethod2\obj\Debug\netcoreapp3.1\VoidMethod2.genruntimeconfig.cache
