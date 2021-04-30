@@ -1,0 +1,12 @@
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\InteritanceApp\InteritanceApp\bin\Debug\netcoreapp3.1\InteritanceApp.exe
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\InteritanceApp\InteritanceApp\bin\Debug\netcoreapp3.1\InteritanceApp.deps.json
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\InteritanceApp\InteritanceApp\bin\Debug\netcoreapp3.1\InteritanceApp.runtimeconfig.json
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\InteritanceApp\InteritanceApp\bin\Debug\netcoreapp3.1\InteritanceApp.runtimeconfig.dev.json
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\InteritanceApp\InteritanceApp\bin\Debug\netcoreapp3.1\InteritanceApp.dll
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\InteritanceApp\InteritanceApp\bin\Debug\netcoreapp3.1\InteritanceApp.pdb
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\InteritanceApp\InteritanceApp\obj\Debug\netcoreapp3.1\InteritanceApp.AssemblyInfoInputs.cache
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\InteritanceApp\InteritanceApp\obj\Debug\netcoreapp3.1\InteritanceApp.AssemblyInfo.cs
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\InteritanceApp\InteritanceApp\obj\Debug\netcoreapp3.1\InteritanceApp.csproj.CoreCompileInputs.cache
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\InteritanceApp\InteritanceApp\obj\Debug\netcoreapp3.1\InteritanceApp.dll
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\InteritanceApp\InteritanceApp\obj\Debug\netcoreapp3.1\InteritanceApp.pdb
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\InteritanceApp\InteritanceApp\obj\Debug\netcoreapp3.1\InteritanceApp.genruntimeconfig.cache
