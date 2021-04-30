@@ -15,6 +15,13 @@ namespace InteritanceApp
 
             // Call method from Employee to display name
             employee.SayName();
+            employee.Quit();
+
+            
+            // Creating object of type IQuittable.
+            IQuittable quittable = new Employee();
+            quittable.Quit();
+
         }
     }
 }
