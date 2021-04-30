@@ -17,5 +17,20 @@ namespace InteritanceApp
         {
             Console.WriteLine(FirstName + " " + LastName + " has quit.");
         }
+        
+
+        // Defining == operator for employees.
+        public static bool operator ==(Employee employee1, Employee employee2)
+        {
+            bool sameEmployee = (employee1.Id == employee2.Id);
+            return sameEmployee;
+        }
+
+        // Must define != when we define == operator.
+        public static bool operator !=(Employee employee1, Employee employee2)
+        {
+            bool sameEmployee = (employee1.Id != employee2.Id);
+            return sameEmployee;
+        }
     }
 }

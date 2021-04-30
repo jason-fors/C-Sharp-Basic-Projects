@@ -10,3 +10,4 @@ C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\InteritanceApp\Inter
 C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\InteritanceApp\InteritanceApp\obj\Debug\netcoreapp3.1\InteritanceApp.dll
 C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\InteritanceApp\InteritanceApp\obj\Debug\netcoreapp3.1\InteritanceApp.pdb
 C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\InteritanceApp\InteritanceApp\obj\Debug\netcoreapp3.1\InteritanceApp.genruntimeconfig.cache
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\InteritanceApp\InteritanceApp\obj\Debug\netcoreapp3.1\InteritanceApp.csprojAssemblyReference.cache
