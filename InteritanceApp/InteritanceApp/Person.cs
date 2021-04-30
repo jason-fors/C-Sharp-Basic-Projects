@@ -4,16 +4,15 @@ using System.Text;
 
 namespace InteritanceApp
 {
-    public class Person
+    // Abstract class. Cannot be instantiated.
+    public abstract class Person
     {
         // Properties of Person
         public string FirstName { get; set; }
         public string LastName { get; set; }
 
-        // Method for displaying name of a person.
-        public void SayName()
-        {
-            Console.WriteLine("Name: " + FirstName + " " + LastName);
-        }
+        // Abstract method for displaying name of a person.
+        public abstract void SayName();
+        
     }
 }

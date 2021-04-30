@@ -13,7 +13,7 @@ namespace InteritanceApp
             employee.FirstName = "Sample";       
             employee.LastName = "Student";
 
-            // Call method from Person (superclass method) to display name
+            // Call method from Employee to display name
             employee.SayName();
         }
     }
