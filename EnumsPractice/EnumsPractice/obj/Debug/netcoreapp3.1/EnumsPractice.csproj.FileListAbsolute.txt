@@ -1,0 +1,13 @@
+C:\Users\Jason Fors\source\repos\EnumsPractice\EnumsPractice\bin\Debug\netcoreapp3.1\EnumsPractice.exe
+C:\Users\Jason Fors\source\repos\EnumsPractice\EnumsPractice\bin\Debug\netcoreapp3.1\EnumsPractice.deps.json
+C:\Users\Jason Fors\source\repos\EnumsPractice\EnumsPractice\bin\Debug\netcoreapp3.1\EnumsPractice.runtimeconfig.json
+C:\Users\Jason Fors\source\repos\EnumsPractice\EnumsPractice\bin\Debug\netcoreapp3.1\EnumsPractice.runtimeconfig.dev.json
+C:\Users\Jason Fors\source\repos\EnumsPractice\EnumsPractice\bin\Debug\netcoreapp3.1\EnumsPractice.dll
+C:\Users\Jason Fors\source\repos\EnumsPractice\EnumsPractice\bin\Debug\netcoreapp3.1\EnumsPractice.pdb
+C:\Users\Jason Fors\source\repos\EnumsPractice\EnumsPractice\obj\Debug\netcoreapp3.1\EnumsPractice.csprojAssemblyReference.cache
+C:\Users\Jason Fors\source\repos\EnumsPractice\EnumsPractice\obj\Debug\netcoreapp3.1\EnumsPractice.AssemblyInfoInputs.cache
+C:\Users\Jason Fors\source\repos\EnumsPractice\EnumsPractice\obj\Debug\netcoreapp3.1\EnumsPractice.AssemblyInfo.cs
+C:\Users\Jason Fors\source\repos\EnumsPractice\EnumsPractice\obj\Debug\netcoreapp3.1\EnumsPractice.csproj.CoreCompileInputs.cache
+C:\Users\Jason Fors\source\repos\EnumsPractice\EnumsPractice\obj\Debug\netcoreapp3.1\EnumsPractice.dll
+C:\Users\Jason Fors\source\repos\EnumsPractice\EnumsPractice\obj\Debug\netcoreapp3.1\EnumsPractice.pdb
+C:\Users\Jason Fors\source\repos\EnumsPractice\EnumsPractice\obj\Debug\netcoreapp3.1\EnumsPractice.genruntimeconfig.cache
