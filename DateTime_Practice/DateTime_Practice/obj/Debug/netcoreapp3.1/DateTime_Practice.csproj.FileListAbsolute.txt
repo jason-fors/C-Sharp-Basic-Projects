@@ -1,0 +1,12 @@
+C:\Users\Jason Fors\source\repos\DateTime_Practice\DateTime_Practice\bin\Debug\netcoreapp3.1\DateTime_Practice.exe
+C:\Users\Jason Fors\source\repos\DateTime_Practice\DateTime_Practice\bin\Debug\netcoreapp3.1\DateTime_Practice.deps.json
+C:\Users\Jason Fors\source\repos\DateTime_Practice\DateTime_Practice\bin\Debug\netcoreapp3.1\DateTime_Practice.runtimeconfig.json
+C:\Users\Jason Fors\source\repos\DateTime_Practice\DateTime_Practice\bin\Debug\netcoreapp3.1\DateTime_Practice.runtimeconfig.dev.json
+C:\Users\Jason Fors\source\repos\DateTime_Practice\DateTime_Practice\bin\Debug\netcoreapp3.1\DateTime_Practice.dll
+C:\Users\Jason Fors\source\repos\DateTime_Practice\DateTime_Practice\bin\Debug\netcoreapp3.1\DateTime_Practice.pdb
+C:\Users\Jason Fors\source\repos\DateTime_Practice\DateTime_Practice\obj\Debug\netcoreapp3.1\DateTime_Practice.AssemblyInfoInputs.cache
+C:\Users\Jason Fors\source\repos\DateTime_Practice\DateTime_Practice\obj\Debug\netcoreapp3.1\DateTime_Practice.AssemblyInfo.cs
+C:\Users\Jason Fors\source\repos\DateTime_Practice\DateTime_Practice\obj\Debug\netcoreapp3.1\DateTime_Practice.csproj.CoreCompileInputs.cache
+C:\Users\Jason Fors\source\repos\DateTime_Practice\DateTime_Practice\obj\Debug\netcoreapp3.1\DateTime_Practice.dll
+C:\Users\Jason Fors\source\repos\DateTime_Practice\DateTime_Practice\obj\Debug\netcoreapp3.1\DateTime_Practice.pdb
+C:\Users\Jason Fors\source\repos\DateTime_Practice\DateTime_Practice\obj\Debug\netcoreapp3.1\DateTime_Practice.genruntimeconfig.cache
