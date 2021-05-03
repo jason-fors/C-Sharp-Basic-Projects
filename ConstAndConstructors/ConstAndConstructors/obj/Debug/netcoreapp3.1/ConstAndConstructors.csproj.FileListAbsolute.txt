@@ -1,0 +1,13 @@
+C:\Users\Jason Fors\source\repos\ConstAndConstructors\ConstAndConstructors\bin\Debug\netcoreapp3.1\ConstAndConstructors.exe
+C:\Users\Jason Fors\source\repos\ConstAndConstructors\ConstAndConstructors\bin\Debug\netcoreapp3.1\ConstAndConstructors.deps.json
+C:\Users\Jason Fors\source\repos\ConstAndConstructors\ConstAndConstructors\bin\Debug\netcoreapp3.1\ConstAndConstructors.runtimeconfig.json
+C:\Users\Jason Fors\source\repos\ConstAndConstructors\ConstAndConstructors\bin\Debug\netcoreapp3.1\ConstAndConstructors.runtimeconfig.dev.json
+C:\Users\Jason Fors\source\repos\ConstAndConstructors\ConstAndConstructors\bin\Debug\netcoreapp3.1\ConstAndConstructors.dll
+C:\Users\Jason Fors\source\repos\ConstAndConstructors\ConstAndConstructors\bin\Debug\netcoreapp3.1\ConstAndConstructors.pdb
+C:\Users\Jason Fors\source\repos\ConstAndConstructors\ConstAndConstructors\obj\Debug\netcoreapp3.1\ConstAndConstructors.csprojAssemblyReference.cache
+C:\Users\Jason Fors\source\repos\ConstAndConstructors\ConstAndConstructors\obj\Debug\netcoreapp3.1\ConstAndConstructors.AssemblyInfoInputs.cache
+C:\Users\Jason Fors\source\repos\ConstAndConstructors\ConstAndConstructors\obj\Debug\netcoreapp3.1\ConstAndConstructors.AssemblyInfo.cs
+C:\Users\Jason Fors\source\repos\ConstAndConstructors\ConstAndConstructors\obj\Debug\netcoreapp3.1\ConstAndConstructors.csproj.CoreCompileInputs.cache
+C:\Users\Jason Fors\source\repos\ConstAndConstructors\ConstAndConstructors\obj\Debug\netcoreapp3.1\ConstAndConstructors.dll
+C:\Users\Jason Fors\source\repos\ConstAndConstructors\ConstAndConstructors\obj\Debug\netcoreapp3.1\ConstAndConstructors.pdb
+C:\Users\Jason Fors\source\repos\ConstAndConstructors\ConstAndConstructors\obj\Debug\netcoreapp3.1\ConstAndConstructors.genruntimeconfig.cache
