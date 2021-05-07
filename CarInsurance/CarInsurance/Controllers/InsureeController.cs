@@ -52,8 +52,9 @@ namespace CarInsurance.Controllers
             {
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
-                return RedirectToAction("Index");
+                return RedirectToAction("GetQuote");
             }
+
 
             return View(insuree);
         }
@@ -124,7 +125,69 @@ namespace CarInsurance.Controllers
             base.Dispose(disposing);
         }
 
+        public ActionResult GetQuote(int? id)
+        {
 
+            // Make list of insurees -- Entity won't let you save to db inside a foreach loop.
+            var insurees = db.Insurees.Where(x => x.Id != null).ToList();
+
+            foreach (var insuree in insurees)
+            {
+
+                decimal startQuote = 50m;
+                TimeSpan age = DateTime.Now - insuree.DateOfBirth;
+                double ageYears = age.Days / 365.25;
+                if (ageYears < 19)
+                {
+                    startQuote += 100;
+                }
+                else if (ageYears < 26)
+                {
+                    startQuote += 50;
+                }
+                else
+                {
+                    startQuote += 25;
+                }
+
+                if (insuree.CarYear < 2000 || insuree.CarYear > 2015)
+                {
+                    startQuote += 25;
+                }
+
+                if (insuree.CarMake == "Porche")
+                {
+                    startQuote += 25;
+
+                    if (insuree.CarModel == "Carerra")
+                    {
+                        startQuote += 25;
+                    }
+                }
+
+                startQuote += (insuree.SpeedingTickets * 10);
+
+                if (insuree.DUI)
+                {
+                    startQuote *= (decimal)1.25;
+                }
+
+                if (insuree.CoverageType)
+                {
+                    startQuote *= (decimal)1.5;
+                }
+
+                insuree.Quote = startQuote;
+
+                if (ModelState.IsValid)
+                {
+                    db.SaveChanges();
+                }
+
+            }
+            return RedirectToAction("Index");
+            //return View(db.Insurees.ToList());
+        }
 
     }
 }
