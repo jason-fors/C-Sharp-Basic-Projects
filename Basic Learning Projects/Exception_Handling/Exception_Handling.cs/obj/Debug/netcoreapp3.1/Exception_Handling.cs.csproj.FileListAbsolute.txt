@@ -1,0 +1,12 @@
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\Exception_Handling\Exception_Handling.cs\bin\Debug\netcoreapp3.1\Exception_Handling.cs.exe
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\Exception_Handling\Exception_Handling.cs\bin\Debug\netcoreapp3.1\Exception_Handling.cs.deps.json
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\Exception_Handling\Exception_Handling.cs\bin\Debug\netcoreapp3.1\Exception_Handling.cs.runtimeconfig.json
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\Exception_Handling\Exception_Handling.cs\bin\Debug\netcoreapp3.1\Exception_Handling.cs.runtimeconfig.dev.json
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\Exception_Handling\Exception_Handling.cs\bin\Debug\netcoreapp3.1\Exception_Handling.cs.dll
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\Exception_Handling\Exception_Handling.cs\bin\Debug\netcoreapp3.1\Exception_Handling.cs.pdb
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\Exception_Handling\Exception_Handling.cs\obj\Debug\netcoreapp3.1\Exception_Handling.cs.AssemblyInfoInputs.cache
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\Exception_Handling\Exception_Handling.cs\obj\Debug\netcoreapp3.1\Exception_Handling.cs.AssemblyInfo.cs
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\Exception_Handling\Exception_Handling.cs\obj\Debug\netcoreapp3.1\Exception_Handling.cs.csproj.CoreCompileInputs.cache
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\Exception_Handling\Exception_Handling.cs\obj\Debug\netcoreapp3.1\Exception_Handling.cs.dll
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\Exception_Handling\Exception_Handling.cs\obj\Debug\netcoreapp3.1\Exception_Handling.cs.pdb
+C:\Users\Jason Fors\Documents\GitHub\C-Sharp-Basic-Projects\Exception_Handling\Exception_Handling.cs\obj\Debug\netcoreapp3.1\Exception_Handling.cs.genruntimeconfig.cache

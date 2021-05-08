@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Insurance_Approval",
+    "\\Insurance_Approval\\Insurance_Approval",
+    "\\Insurance_Approval\\Insurance_Approval.cs"
   ],
+  "SelectedNode": "\\Insurance_Approval\\Insurance_Approval.cs\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

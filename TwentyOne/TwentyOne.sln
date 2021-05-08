@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwentyOne.cs", "TwentyOne.cs\TwentyOne.cs.csproj", "{C02EF049-7142-4374-A074-733F2C35FA3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casino", "Casino\Casino.csproj", "{3A5EE8F5-5320-479B-8346-A95FDB31140C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C02EF049-7142-4374-A074-733F2C35FA3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C02EF049-7142-4374-A074-733F2C35FA3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C02EF049-7142-4374-A074-733F2C35FA3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C02EF049-7142-4374-A074-733F2C35FA3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A5EE8F5-5320-479B-8346-A95FDB31140C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A5EE8F5-5320-479B-8346-A95FDB31140C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A5EE8F5-5320-479B-8346-A95FDB31140C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A5EE8F5-5320-479B-8346-A95FDB31140C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B75E615-D3E8-4DED-94DB-6C1AED72CD5D}
+	EndGlobalSection
+EndGlobal
